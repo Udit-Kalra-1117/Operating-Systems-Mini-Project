@@ -9,4 +9,4 @@ The algorithms used are:
       1.  Process Management: Earliest Deadline First Algorithm
       2.  Input Output Management: C-SCAN Algorithm
       3.  Memory Management: Half Fit Algorithm
-      4.  File MAnagement: Blowfish Algorithm
+      4.  File Management: Blowfish Algorithm
